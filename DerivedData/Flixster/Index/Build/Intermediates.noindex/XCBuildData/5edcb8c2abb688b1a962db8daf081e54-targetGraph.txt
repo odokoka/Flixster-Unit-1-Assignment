@@ -1,0 +1,39 @@
+Target dependency graph (16 targets)
+Alamofire in Pods, no dependencies
+AlamofireImage in Pods, depends on:
+Alamofire in Pods (explicit)
+Pods-Flixster in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+AlamofireImage in AlamofireImage (explicit)
+Alamofire in Alamofire (explicit)
+Flixster in Flixster, depends on:
+Pods-Flixster in Pods (implicit dependency via file 'Pods_Flixster.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in AlamofireImage (explicit)
+Alamofire in Pods, no dependencies
+AlamofireImage in Pods, depends on:
+Alamofire in Pods (explicit)
+Pods-Flixster in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+Alamofire in Alamofire (explicit)
+AlamofireImage in AlamofireImage, depends on:
+AlamofireImage in AlamofireImage (explicit)
+Alamofire in Alamofire (explicit)
+Flixster in Flixster, depends on:
+Pods-Flixster in Pods (implicit dependency via file 'Pods_Flixster.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in Pods (implicit dependency via options '-framework AlamofireImage' in build setting 'OTHER_LDFLAGS')
+AlamofireImage in AlamofireImage (explicit)

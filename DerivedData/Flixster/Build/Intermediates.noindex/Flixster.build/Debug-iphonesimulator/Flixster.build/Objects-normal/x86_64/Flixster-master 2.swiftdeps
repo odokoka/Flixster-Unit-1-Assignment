@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1663050688, 363225936]
+build_end_time: [1663050688, 804021835]
+inputs:
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Flixster/AppDelegate.swift": [1663045819, 908143758]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Flixster/MovieCell.swift": [1663050317, 201777935]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Flixster/MoviesViewController.swift": [1663050616, 883634567]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Flixster/SceneDelegate.swift": [1663045819, 910795688]

@@ -1,0 +1,77 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "c37a9b983607173aaa619ac75dddc039d218593258e73e88f59f5ba0cd0a13c2"
+build_start_time: [1663052154, 268666982]
+build_end_time: [1663052158, 970299959]
+inputs:
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/AFError.swift"
+  : [1663050922, 277037143]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Alamofire.swift"
+  : [1663050922, 277227878]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/AlamofireExtended.swift"
+  : [1663050922, 277366638]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/AuthenticationInterceptor.swift"
+  : [1663050922, 277582168]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/CachedResponseHandler.swift"
+  : [1663050922, 278158664]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Combine.swift"
+  : [1663050922, 278502702]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Concurrency.swift"
+  : [1663050922, 278858184]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/DispatchQueue+Alamofire.swift"
+  : [1663050922, 279075145]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/EventMonitor.swift"
+  : [1663050922, 279398441]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/HTTPHeaders.swift"
+  : [1663050922, 279597997]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/HTTPMethod.swift"
+  : [1663050922, 279756069]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/MultipartFormData.swift"
+  : [1663050922, 280108928]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/MultipartUpload.swift"
+  : [1663050922, 280265331]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/NetworkReachabilityManager.swift"
+  : [1663050922, 280459403]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Notifications.swift"
+  : [1663050922, 280632019]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/OperationQueue+Alamofire.swift"
+  : [1663050922, 280980110]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/ParameterEncoder.swift"
+  : [1663050922, 281151533]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/ParameterEncoding.swift"
+  : [1663050922, 281333446]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Protected.swift"
+  : [1663050922, 281499147]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/RedirectHandler.swift"
+  : [1663050922, 281652450]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Request.swift"
+  : [1663050922, 282090187]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/RequestInterceptor.swift"
+  : [1663050922, 282341718]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/RequestTaskMap.swift"
+  : [1663050922, 282511711]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Response.swift"
+  : [1663050922, 282711267]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/ResponseSerialization.swift"
+  : [1663050922, 283073425]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Result+Alamofire.swift"
+  : [1663050922, 283257961]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/RetryPolicy.swift"
+  : [1663050922, 283468723]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/ServerTrustEvaluation.swift"
+  : [1663050922, 283778905]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Session.swift"
+  : [1663050922, 284011840]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/SessionDelegate.swift"
+  : [1663050922, 284310340]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/StringEncoding+Alamofire.swift"
+  : [1663050922, 284584999]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/URLConvertible+URLRequestConvertible.swift"
+  : [1663050922, 284743309]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/URLEncodedFormEncoder.swift"
+  : [1663050922, 285097599]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/URLRequest+Alamofire.swift"
+  : [1663050922, 285326480]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/URLSessionConfiguration+Alamofire.swift"
+  : [1663050922, 285749435]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/Alamofire/Source/Validation.swift"
+  : [1663050922, 285918712]

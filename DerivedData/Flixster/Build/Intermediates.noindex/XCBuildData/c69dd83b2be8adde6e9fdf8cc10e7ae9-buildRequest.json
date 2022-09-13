@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b1307c17318a6465638d83f3c64518ec30fa8c7da917fffc4b544feb35eb9613"
+    }
+  ],
+  "containerPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Flixster.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Build/Products",
+      "derivedDataPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "BB9D8558-EF31-4427-9714-0B948FB61B41",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

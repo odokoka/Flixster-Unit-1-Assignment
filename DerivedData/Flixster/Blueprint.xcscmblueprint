@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "463F6601-77B9-4622-9E17-D3CBBED179BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : "Flixster\/DerivedData\/Flixster\/SourcePackages\/checkouts\/AlamofireImage\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "Flixster\/DerivedData\/Flixster\/SourcePackages\/checkouts\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Flixster",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Flixster.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/odokoka\/Desktop\/Xcode%20Projects\/iOS%20Development%20Course\/Flixster\/DerivedData\/Flixster\/SourcePackages\/repositories\/Alamofire-e8f130fe",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/odokoka\/Desktop\/Xcode%20Projects\/iOS%20Development%20Course\/Flixster\/DerivedData\/Flixster\/SourcePackages\/repositories\/AlamofireImage-1f60f052",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86"
+    }
+  ]
+}

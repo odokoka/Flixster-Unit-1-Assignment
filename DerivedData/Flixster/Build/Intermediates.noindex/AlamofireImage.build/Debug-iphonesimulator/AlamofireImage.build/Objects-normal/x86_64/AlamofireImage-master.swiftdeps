@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "b07546b060c78559241b03cd04cf40674e385e3cf665bc27d4cd946527a46f42"
+build_start_time: [1663052159, 100624084]
+build_end_time: [1663052160, 17997026]
+inputs:
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/AFIError.swift"
+  : [1663050922, 964371204]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/Image.swift"
+  : [1663050922, 964749336]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/ImageCache.swift"
+  : [1663050922, 964936256]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/ImageDownloader.swift"
+  : [1663050922, 965221405]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/ImageFilter.swift"
+  : [1663050922, 965473651]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/Request+AlamofireImage.swift"
+  : [1663050922, 965841770]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/UIButton+AlamofireImage.swift"
+  : [1663050922, 966135025]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/UIImage+AlamofireImage.swift"
+  : [1663050922, 966407299]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/SourcePackages/checkouts/AlamofireImage/Source/UIImageView+AlamofireImage.swift"
+  : [1663050922, 966646194]

@@ -1,0 +1,80 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b1307c17318a6465638d83f3c64518ec30fa8c7da917fffc4b544feb35eb9613"
+    },
+    {
+      "guid" : "b1307c17318a6465638d83f3c64518ec1ac51b24ec49eeffc8ec5a7425e5050d"
+    },
+    {
+      "guid" : "b1307c17318a6465638d83f3c64518ecd89e200ce7ef1e631db0a7ba3e91b3bf"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42f394d7d4048bf834921b9950467f658f"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42f4ff336bc1e7db201bf82c60898bd6cf"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42e90e98dde1dbcf2b7022ec402f1660b6"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42597a34553b993ff2a730d6649c282f68"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42ba3679b4c4428e6a6d83c5308d3af99b"
+    }
+  ],
+  "containerPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Flixster.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Index/Build/Products",
+      "derivedDataPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/DerivedData/Flixster/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

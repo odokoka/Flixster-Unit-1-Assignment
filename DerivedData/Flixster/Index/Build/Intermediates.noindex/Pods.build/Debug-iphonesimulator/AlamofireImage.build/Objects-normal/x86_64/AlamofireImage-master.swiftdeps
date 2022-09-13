@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "b9f579b3bb827e1c15a89152012e4fc49e61059f5d4234356efe57645c085e41"
+build_start_time: [1663052159, 990251064]
+build_end_time: [1663052161, 15023946]
+inputs:
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/AFIError.swift": [1663051874, 67485809]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/Image.swift": [1663051874, 67651748]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/ImageCache.swift": [1663051874, 67145109]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/ImageDownloader.swift": [1663051874, 68065166]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/ImageFilter.swift": [1663051874, 68677663]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1663051874, 68509101]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1663051874, 67859172]
+  "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1663051874, 67311525]
+  ? "/Users/odokoka/Desktop/Xcode Projects/iOS Development Course/Flixster/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift"
+  : [1663051874, 68272590]
